@@ -69,7 +69,6 @@ static void window_appear(Window *window)
 {
     if (s_appear_anim)
     {
-        // In progress, cancel
         animation_unschedule(s_appear_anim);
     }
 
