@@ -1,5 +1,10 @@
 # GREFlashcards
 
+![first](https://github.com/ankithreddypati/GREFlashcards/assets/113855501/3b330fe1-500f-434c-8264-1efeab2c14f1)
+
+![second](https://github.com/ankithreddypati/GREFlashcards/assets/113855501/03fdd5a1-da4a-4775-bc69-6ec762cd17e7)
+
+![third](https://github.com/ankithreddypati/GREFlashcards/assets/113855501/44457f21-374f-4e50-a6df-b288c8ef060b)
 
 GreFlashcards is a vocabulary learning app designed for Pebble smartwatches for GRE examination. It provides an interactive and convenient way for users to enhance their vocabulary skills on the go. The app includes a curated set of vocabulary words commonly found in GRE exams, allowing users to practice and reinforce their knowledge at their own pace.
 
@@ -18,7 +23,9 @@ GreFlashcards is a vocabulary learning app designed for Pebble smartwatches for 
 To use GREFlashcards on your Pebble smartwatch:
 
 1. Install the app on your Pebble device from rebble store.
-https://apps.rebble.io/en_US/application/65a3d950e46ef105779235d4
+   
+   https://apps.rebble.io/en_US/application/65a3d950e46ef105779235d4
+
 2. Navigate through sets using the Pebble buttons.
 3. Select specific words to view their meanings.
 4. words are marked as read when viewed to track the progress .
