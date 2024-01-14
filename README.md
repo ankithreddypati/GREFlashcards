@@ -1,9 +1,9 @@
 # GREFlashcards
 
 <div align="center">
-  <img src="https://github.com/ankithreddypati/GREFlashcards/assets/113855501/3b330fe1-500f-434c-8264-1efeab2c14f1" width="400" />
-  <img src="https://github.com/ankithreddypati/GREFlashcards/assets/113855501/03fdd5a1-da4a-4775-bc69-6ec762cd17e7" width="400" /> 
-  <img src="https://github.com/ankithreddypati/GREFlashcards/assets/113855501/44457f21-374f-4e50-a6df-b288c8ef060b" width="400" /> 
+  <img src="https://github.com/ankithreddypati/GREFlashcards/assets/113855501/3b330fe1-500f-434c-8264-1efeab2c14f1" width="300" />
+  <img src="https://github.com/ankithreddypati/GREFlashcards/assets/113855501/03fdd5a1-da4a-4775-bc69-6ec762cd17e7" width="300" /> 
+  <img src="https://github.com/ankithreddypati/GREFlashcards/assets/113855501/44457f21-374f-4e50-a6df-b288c8ef060b" width="300" /> 
 </div>
 
 
